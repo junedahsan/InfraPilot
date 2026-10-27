@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "generated_at_utc": "2026-10-27T08:30:00+00:00",
+  "collection_mode": "local_read_only",
+  "system": {"hostname": "LAB-SERVER-01", "operating_system": "Windows Server (example)", "architecture": "AMD64", "logical_cpu_count": 8, "memory": {"total_bytes": 34359738368, "available_bytes": 17179869184, "used_percent": 50}},
+  "disks": [{"path": "C:\\", "total_bytes": 536870912000, "free_bytes": 107374182400, "free_percent": 20.0}],
+  "network": {"adapters": []},
+  "services": [{"name": "TermService", "state": "RUNNING"}]
+}
